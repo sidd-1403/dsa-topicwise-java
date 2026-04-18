@@ -1,1 +1,2 @@
 # Arrays/
+Easy,Medium,Hard
