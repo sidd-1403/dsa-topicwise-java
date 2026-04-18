@@ -1,8 +1,8 @@
-Problem-Two Sum
+/*Problem-Two Sum
 Medium
 Tc-O(n)
 Sc-O(n)
-Approach-Used HashMap
+Approach-Used HashMap*/
 class Solution {
   public int[] twoSum(int[] nums, int target) {
     HashMap<Integer, Integer> map = new HashMap<>();
