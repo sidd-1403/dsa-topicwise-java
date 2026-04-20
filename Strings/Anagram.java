@@ -1,3 +1,9 @@
+//Problem Name:valid Anagram
+//Leetcode
+//TC:O(n)
+//SC:O(1);
+//Approach:Used  If both strings contain same characters with same frequency → they are anagrams.
+
 class Solution {
   public boolean anagramStrings(String s, String t) {
     if (s.length() != t.length()) {
