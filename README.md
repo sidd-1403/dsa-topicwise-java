@@ -63,9 +63,9 @@ class Solution {
 
 ## Resources
 
-- [Striver A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-- [LeetCode](https://leetcode.com)
-- [NeetCode](https://neetcode.io)
+- [Striver A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
+- [LeetCode](https://leetcode.com/u/ZTeoGSAok8/)
+- [NeetCode](https://neetcode.io/practice/practice/neetcode250)
 
 ---
 
