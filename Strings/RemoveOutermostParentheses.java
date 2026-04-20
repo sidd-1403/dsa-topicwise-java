@@ -1,3 +1,8 @@
+//Problem Name:Remove OuterParentheses
+//Leetcode
+//TC:O(n)
+//SC:O(1)
+//Approach:Use a counter to track depth and skip the outermost parentheses (depth = 0 → 1 and 1 → 0)
 class Solution {
   public String removeOuterParentheses(String s) {
     StringBuilder sb = new StringBuilder();
